@@ -1,0 +1,10 @@
+body{
+background-image: linear-gradient(to left, #53696d, #425654, #34423d, #283029, #1b1e17);
+/* background-color: #333; */
+}
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
